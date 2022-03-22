@@ -1,8 +1,0 @@
-prefix=/home/pi/catkin_ws/install
-
-Name: movement
-Description: Description of movement
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
